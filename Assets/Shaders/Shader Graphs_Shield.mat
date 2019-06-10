@@ -24,11 +24,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_602F746F: 5.2
-    - Vector1_77451A32: 12.1
+    - Vector1_602F746F: 10
+    - Vector1_77451A32: 13.9
     - Vector1_884355F3: 0.39
-    - Vector1_8E2F44B1: 7.2
-    - Vector1_9D9D1035: -1.16
+    - Vector1_8E2F44B1: 5.2
+    - Vector1_9D9D1035: 0.1
     - Vector1_A7BBE50F: 0.89
     - Vector1_E6069D68: 1.1
     m_Colors:
